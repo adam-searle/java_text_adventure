@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Inventory()
+comment0.text=\r\n\ Constructor\ for\ Inventory\r\n\ constructs\ an\ empty\ inventory\r\n
+comment1.params=items
+comment1.target=void\ addItems(java.util.List)
+comment1.text=\r\n\ Adds\ a\ list\ of\ passed\ items\ to\ the\ inventory\r\n\ a\ list\ is\ used\ to\ be\ more\ flexible.\r\n\ @param\ i\ The\ list\ of\ items\ to\ be\ added\r\n
+comment2.params=
+comment2.target=void\ listItems()
+comment2.text=\r\n\ Prints\ a\ list\ of\ items\ in\ the\ inventory\r\n
+comment3.params=
+comment3.target=java.util.List\ getItemList()
+comment3.text=\r\n\ Returns\ an\ ArrayList\ of\ the\ inventory\ items\r\n\ @return\ a\ list\ of\ strings,\ being\ the\ inventory\ items.\r\n
+comment4.params=i
+comment4.target=java.lang.Boolean\ containsItem(java.lang.String)
+comment4.text=\r\n\ Checks\ if\ given\ item\ is\ in\ inventory,\ returns\ true\ or\ false.\r\n\ @param\ i\ The\ item\ to\ check\r\n\ @return\ a\ boolean\r\n
+numComments=5
